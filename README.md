@@ -1,4 +1,3 @@
-# crab-age-predition
 # Crab Age Prediction Model
 
 ## Overview
